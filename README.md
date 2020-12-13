@@ -7,13 +7,13 @@ I am a python programmer and developer
 
 I do Natural Language Processing and building text processing models with spaCy.
 
-Develop dashboards and data applications-django.
+Develop data applications-django.
 
 Package applications and models as docker containers.
 
 Deploy applications as web apps and container applications on Microsoft Azure.
 
-Azure ML.
+Azure ML and everything data!
 
 I also do web scraping
 
@@ -21,4 +21,4 @@ I also do web scraping
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyaribari&layout=compact)
 
-Feel comfortabale to reach me through anyaribari@gmail.com
+Feel comfortabale to reach me through [anyaribari@gmail.com]
