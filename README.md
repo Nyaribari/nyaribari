@@ -21,4 +21,4 @@ I also do web scraping
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyaribari&layout=compact)
 
-Feel comfortabale to reach me through [anyaribari@gmail.com]
+Feel comfortabale to reach me through anyaribari@gmail.com
