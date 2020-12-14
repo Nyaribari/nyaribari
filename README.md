@@ -1,9 +1,8 @@
-### Hi there, this is Nyaribari.
+### WELCOME!
 
+<h3 align="center">WHAT I DO! </h3>
 
-## What I do!
-
-I am a python programmer and developer
+<h5 align="center"> I am a python programmer and developer</h5>
 
 I do Natural Language Processing and building text processing models with spaCy.
 
