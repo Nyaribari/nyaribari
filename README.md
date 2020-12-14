@@ -21,10 +21,6 @@
   <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/dash-bootstrap-components">
 </p>
 
-
-<p align="center"> 
-  <br> 
-  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyaribari&layout=compact)
-  </p>
-
-<h5 align="center"> Feel comfortabale to reach me through anyaribari@gmail.com </h5>
+   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyaribari&layout=compact)
+   
+   Feel comfortabale to reach me through anyaribari@gmail.com
