@@ -22,6 +22,9 @@
 </p>
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyaribari&layout=compact)
+<p align="center"> 
+  <br> 
+  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyaribari&layout=compact)
+  </p>
 
-Feel comfortabale to reach me through anyaribari@gmail.com
+<h5 align="center"> Feel comfortabale to reach me through anyaribari@gmail.com </h5>
