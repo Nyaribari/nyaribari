@@ -19,8 +19,6 @@ I also do web scraping
 
 <p align="center">
   <br>
-  <img alt="My profile" src="https://github.com/Nyaribari">
-  <img alt="GitHub" src="https://img.shields.io/github/license/facultyai/dash-bootstrap-components">
   <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/dash-bootstrap-components">
 </p>
 
