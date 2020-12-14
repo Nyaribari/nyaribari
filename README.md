@@ -4,17 +4,17 @@
 
 <h5 align="center"> I am a python programmer and developer</h5>
 
-I do Natural Language Processing and building text processing models with spaCy.
+<h5 align="center"> I do Natural Language Processing and building text processing models with spaCy. </h5>
 
-Develop data applications-django.
+<h5 align="center"> Develop data applications-django. </h5>
 
-Package applications and models as docker containers.
+<h5 align="center"> Package applications and models as docker containers. </h5>
 
-Deploy applications as web apps and container applications on Microsoft Azure.
+<h5 align="center"> Deploy applications as web apps and container applications on Microsoft Azure. </h5>
 
-Azure ML and everything data!
+<h5 align="center"> Azure ML and everything data! </h5>
 
-I also do web scraping
+<h5 align="center"> I also do web scraping </h5>
 
 <p align="center">
   <br>
