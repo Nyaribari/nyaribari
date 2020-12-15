@@ -8,7 +8,7 @@
 
 <h5 align="center"> Develop data applications-django. </h5>
 
-<h5 align="center"> Building Viartual Assistanta with RASA. </h5>
+<h5 align="center"> Building Virtual Assistanta with RASA. </h5>
 
 <h5 align="center"> Package applications and models as docker containers. </h5>
 
