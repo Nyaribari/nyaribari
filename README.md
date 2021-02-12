@@ -26,5 +26,3 @@
    ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyaribari&layout=compact)
    
    Feel comfortabale to reach me through anyaribari@gmail.com
-   
-   ![Repositories](https://github.com/Nyaribari?tab=repositories)
