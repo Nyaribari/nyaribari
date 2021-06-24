@@ -14,6 +14,11 @@
   <br>
   <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/dash-bootstrap-components">
 </p>
+   
+   <p align="center">
+  <br>
+  <img alt="PyPI - Python Version" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyaribari&layout=compact">
+</p>
 
    ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyaribari&layout=compact)
    
