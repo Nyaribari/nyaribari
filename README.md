@@ -17,7 +17,7 @@
    
    <p align="center">
   <br>
-  <img alt="PyPI - Python Version" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyaribari&layout=compact">
+  <img alt="PROG-Language card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyaribari&layout=compact">
 </p>
  <p align="center">
    Feel comfortabale to reach me through anyaribari@gmail.com
