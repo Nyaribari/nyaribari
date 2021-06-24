@@ -1,7 +1,15 @@
 ### WELCOME!
 
 <body>
-  <div style="background-image:url(./photo_2021-06-24_15-33-07.jpg)">
+   <style>
+      
+     {
+            div background-image: url('img_girl.jpg'); 
+     
+     }
+     
+  </style>
+  <div>
 
 <h3 align="center">WHAT I DO! </h3>
 
