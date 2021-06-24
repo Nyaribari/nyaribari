@@ -1,6 +1,5 @@
 ### WELCOME!
 
-<body>
    
    <div>
    <style>
@@ -28,4 +27,4 @@
    
    Feel comfortabale to reach me through anyaribari@gmail.com
   </div>
-  </body>
+ 
