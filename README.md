@@ -19,7 +19,7 @@
   <br>
   <img alt="PROG-Language card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyaribari&layout=compact">
 </p>
-   
+   [Talk to me directly](https://wa.link/l1kdaa)
    <p align="center"><a name="https://wa.link/l1kdaa"> Talk to me directly </a>
    </p>
    
