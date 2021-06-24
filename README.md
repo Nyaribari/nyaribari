@@ -20,7 +20,8 @@
   <img alt="PROG-Language card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyaribari&layout=compact">
 </p>
    
-   Reach me through anyaribari@gmail.com
+   <p align="center"> Talk to me directly <a name="https://wa.link/l1kdaa"> here </a>
+   </p>
    
   </div>
  
