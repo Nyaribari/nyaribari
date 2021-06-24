@@ -2,7 +2,7 @@
 
 <h3 align="center">WHAT I DO! </h3>
 
-<h5 align="center"> I am a python programmer and developer</h5>
+<h5 align="center"> Python Programmer and Developer</h5>
 <h5 align="center"> Develop data applications-django. </h5>
 <h5 align="center"> Building REST APIs with Django </h5>
 
