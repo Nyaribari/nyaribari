@@ -1,4 +1,4 @@
-### * [Talk to me directly](https://wa.link/l1kdaa) !
+###  [TALK TO ME DIRECTLY](https://wa.link/l1kdaa)
 
    
    <div>
