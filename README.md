@@ -7,7 +7,7 @@
 <h5 align="center"> Building data applications and REST APIs with Django </h5>
 <h5 align="center">  Docker | spaCy | Azure  </h5> 
   <p align="center">
-   <img src="./photo_2021-06-24_15-33-07.jpg" width=200 />
+   <img src="./photo_2021-06-24_15-33-07.jpg" width=400 />
 </p>
 
 <p align="center">
