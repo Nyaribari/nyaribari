@@ -3,7 +3,7 @@
    
    <div>
       
-   ![alt text](./photo_2021-06-24_15-33-07.jpg)
+   <img align="center"> ![alt text](./photo_2021-06-24_15-33-07.jpg) </img>
      
 <h3 align="center">WHAT I DO! </h3>
 
