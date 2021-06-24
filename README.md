@@ -3,8 +3,8 @@
 <body>
    <style>
       
-     {
-            div background-image: url('img_girl.jpg'); 
+   div  {
+          background-image: url('photo_2021-06-24_15-33-07.jpg'); 
      
      }
      
