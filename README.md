@@ -2,20 +2,16 @@
 
    
    <div>
-   
-   <p align="center">
-  <img src="./photo_2021-06-24_15-33-07.jpg" />
-</p>
-     
-<h3 align="center">WHAT I DO! </h3>
-
+   <h3 align="center">WHAT I DO! </h3>
 <h5 align="center"> Python Programmer and Developer</h5>
 <h5 align="center"> Develop data applications-django. </h5>
 <h5 align="center"> Building REST APIs with Django </h5>
-
 <h5 align="center"> Docker. </h5>
 <h5 align="center"> spaCy. </h5>
-<h5 align="center"> Azure. </h5>
+<h5 align="center"> Azure. </h5>   
+   <p align="center">
+  <img src="./photo_2021-06-24_15-33-07.jpg" />
+</p>
 
 <p align="center">
   <br>
