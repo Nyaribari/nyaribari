@@ -2,7 +2,7 @@
 
    
    <div>
-   <h3 align="center">WHAT I DO! </h3>
+   <h3 align="center" style="font-family: courier, courier; font-size:11pt; font-style:courier" >WHAT I DO! </h3>
 <h5 align="center"> Python Programmer and Developer</h5>
 <h5 align="center"> Building data applications and REST APIs with Django </h5>
 <h5 align="center">  Docker | spaCy | Azure  </h5> 
