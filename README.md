@@ -1,4 +1,4 @@
-### WELCOME!
+### * [Talk to me directly](https://wa.link/l1kdaa) !
 
    
    <div>
@@ -19,9 +19,7 @@
   <br>
   <img alt="PROG-Language card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyaribari&layout=compact">
 </p>
-   
-   * [Talk to me directly](https://wa.link/l1kdaa)
-   
+    
    
   </div>
  
