@@ -1,5 +1,7 @@
 ### WELCOME!
 
+<body>
+
 <h3 align="center">WHAT I DO! </h3>
 
 <h5 align="center"> Python Programmer and Developer</h5>
@@ -18,3 +20,5 @@
    ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyaribari&layout=compact)
    
    Feel comfortabale to reach me through anyaribari@gmail.com
+  
+  </body>
